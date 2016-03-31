@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/danmichaelo/danmichaelo.github.io#readme",
   "dependencies": {
+    "autoprefixer": "^6.3.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
     "normalize.css": "^4.0.0"
   }
 }
